@@ -1,0 +1,22 @@
+Does the 3 x 1 periodic grid have any oscillators?
+No.
+
+Does the 3 x 2 periodic grid have any oscillators?
+No.
+
+Does the 3 x 3 periodic grid have any oscillators?
+No.
+
+Does the 3 x 4 periodic grid have any oscillators?
+Yes: for example, this oscillator of period 2.
+. . █ █
+. . █ █
+. . █ █ 
+
+█ █ . .
+█ █ . .
+█ █ . . 
+
+. . █ █
+. . █ █
+. . █ █ 
